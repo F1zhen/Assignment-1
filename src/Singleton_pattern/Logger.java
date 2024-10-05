@@ -1,4 +1,4 @@
-package Logger_pattern;
+package Singleton_pattern;
 
 // This class Logger is trying to follow the Singleton pattern.
 // It means only one Logger can exist in the whole program.

@@ -1,4 +1,4 @@
-package Logger_pattern;
+package Singleton_pattern;
 
 public class LoggerMain {
     public static void main(String[] args) {
