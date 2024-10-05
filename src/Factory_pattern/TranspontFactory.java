@@ -1,6 +1,5 @@
 package Factory_pattern;
 
-import org.w3c.dom.ls.LSOutput;
 
 public class TranspontFactory {
     public Transport createTransport(String way) {
