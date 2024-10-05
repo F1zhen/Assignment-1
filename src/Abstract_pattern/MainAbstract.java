@@ -16,3 +16,7 @@ public class MainAbstract {
         macWindow.open();
     }
 }
+
+
+// The Abstract Design Pattern is a design pattern that provides a way to define a family of related or dependent objects without specifying their concrete classes.
+// It is very useful when you want to ensure that your code is flexible and can work with different types of objects.
