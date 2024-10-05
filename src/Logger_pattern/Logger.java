@@ -1,5 +1,4 @@
-package loggerpattern;
-
+package Logger_pattern;
 public class Logger {
 
     //step 1
