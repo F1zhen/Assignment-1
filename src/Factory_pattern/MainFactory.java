@@ -7,7 +7,7 @@ public class MainFactory {
         TranspontFactory factory = new TranspontFactory();
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Выберите тип доставки (land/water/air): ");
+        System.out.println("Choose your type (land/water/air): ");
         String way = scanner.nextLine();
 
         Transport transport = factory.createTransport(way.toLowerCase());
